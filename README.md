@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Hacker News readers as  <a href="https://g.co/ProgressiveWebApps">Progressive Web Apps</a>. A spiritual successor to <a href="https://github.com/tastejs/todomvc">TodoMVC</a>.
+  Hacker News readers as  <a href="https://g.co/ProgressiveWebApps">Progressive Web Apps</a>. A <a href="https://vuejs.org/">VueJs<a/> Adaptation.
 </p>
 
 <p align="center">
